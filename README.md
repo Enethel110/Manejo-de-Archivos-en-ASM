@@ -37,7 +37,7 @@ como has estado
 esto es una prueba
 para contar caracteres.
 ```
-### 🔸 Archivo de entrada (`archivo.asm`)
+### 🔸 Archivo de salida (`archivo.lst`)
 ```lst
 000 hola que tal
 012 como has estado
