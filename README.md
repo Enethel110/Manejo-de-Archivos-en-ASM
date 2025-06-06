@@ -65,3 +65,46 @@ para contar caracteres.
 - 🧵 **Al finalizar correctamente, el registro `SP` (Stack Pointer) debe contener el valor `FFF8h`**, lo que garantiza una terminación segura del programa y el retorno adecuado al sistema operativo.
 
 ---
+
+## 🖼️ Capturas de pantalla del programa
+
+### 🔹 Archivo fuente `.ASM`
+Visualización del archivo ensamblador principal.  
+![Archivo .ASM](IMG/IMAGE1.png)
+
+---
+
+### 🔹 Contenido del archivo `.ASM`
+Se muestra el código fuente en lenguaje ensamblador.  
+![Contenido del archivo .ASM](IMG/IMAGE2.png)
+
+---
+
+### 🔹 Selección del archivo `.ASM`
+Proceso de búsqueda y carga del archivo desde el entorno.  
+![Selección del archivo .ASM](IMG/IMAGE3.png)
+
+---
+
+### 🔹 Archivo `.LST` generado correctamente
+Confirmación de que el archivo listado fue generado sin errores.  
+![Archivo .lst generado](IMG/IMAGE4.png)
+
+---
+
+### 🔹 Contenido del archivo `.LST`
+Vista detallada del contenido del archivo listado.  
+![Contenido del archivo .lst](IMG/IMAGE5.png)
+
+---
+
+### 🔹 Finalización del conteo de caracteres
+El proceso de conteo de caracteres se completó exitosamente.  
+![Finalización del conteo](IMG/IMAGE6.png)
+
+---
+
+### 🔹 Finalización exitosa del programa
+El programa concluyó su ejecución de manera correcta.  
+![Programa finalizado](IMG/IMAGE7.png)
+
